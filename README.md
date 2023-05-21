@@ -1,1 +1,1 @@
-# framework
+# mvc application architecture
