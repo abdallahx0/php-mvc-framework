@@ -1,1 +1,1 @@
-# mvc application architecture
+# applying mvc architecture using php
