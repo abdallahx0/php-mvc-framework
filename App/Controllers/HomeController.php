@@ -14,7 +14,9 @@ class HomeController extends Controller
      */
     public function index()
     {
-        echo '<h1>Welcome</h1>';
+        $message = '<h1>Welcome to home page</h1>';
+
+        return $this->view->render('home', ['message' => $message]);
     }
       
 }
